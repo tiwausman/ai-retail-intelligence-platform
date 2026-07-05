@@ -19,7 +19,9 @@ More importantly, the richness of nine tables means a single dataset can support
 One dataset. No dataset juggling. One coherent business story.
 ## System Architecture
 
-![Architecture](images/architecture.png)
+![System Architecture](images/architecture.png)
+
+*Figure 1. End-to-end architecture of the NovaMart AI Retail Intelligence Platform, showing data ingestion, preprocessing, machine learning modules, explainable AI, and dashboard deployment.*
 
 ## Technologies
 
