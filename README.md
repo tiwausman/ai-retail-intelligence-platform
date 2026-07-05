@@ -21,11 +21,11 @@ One dataset. No dataset juggling. One coherent business story.
 
 ## System Architecture
 
-![System Architecture](images/system_architectures.png)
+![System Architecture](system_architectures.png)
 
 ## Dataset Relationship Diagram
 
-![Dataset Relationship Diagram](images/dataset_relationship_diagram.png)
+![Dataset Relationship Diagram](dataset_relationship_diagram.png)
 
 *Figure 1. End-to-end architecture of the NovaMart AI Retail Intelligence Platform, showing data ingestion, preprocessing, machine learning modules, explainable AI, and dashboard deployment.*
 
