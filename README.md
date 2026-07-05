@@ -47,6 +47,15 @@ cd novamart-ai-retail-intelligence
 
 pip install -r requirements.txt
 
+## Results
+
+- Model comparison table
+- Accuracy metrics
+- Dashboard screenshots
+- SHAP explanations
+
+---
+
 ## Dataset
 
 This project uses the Olist Brazilian E-Commerce Dataset.
@@ -60,12 +69,4 @@ path = kagglehub.dataset_download(
     "olistbr/brazilian-ecommerce"
 )
 
-## Results
-
-- Model comparison table
-- Accuracy metrics
-- Dashboard screenshots
-- SHAP explanations
-
----
 
