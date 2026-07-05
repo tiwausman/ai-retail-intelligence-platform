@@ -11,15 +11,21 @@ But like many growing e-commerce companies, NovaMart faces six key analytical ch
 — Suspicious transactions aren't flagged automatically.
 — And when an AI model makes a prediction, there's no way to explain why which erodes trust with business stakeholders.
 Each of these challenges maps directly to one of the nine platform modules. That's the business story that ties this whole project together.
+
 ## The Dataset
 The dataset powering this entire platform is the Olist Brazilian E-Commerce real dataset, freely available on Kaggle.
 What makes Olist particularly well-suited for this project is its scale and structure. It contains over 100,000 real customer orders and is spread across nine interlinked tables — orders, customers, products, sellers, payments, reviews, geolocation, delivery dates, and order status.
 This isn't a single flat CSV file. It's a relational database structure, which means working with it requires real data engineering skills — joining tables, resolving foreign keys, handling nulls across multiple sources. That alone makes it more realistic than most academic datasets.
 More importantly, the richness of nine tables means a single dataset can support almost every type of ML task: clustering for segmentation, regression for forecasting, classification for delivery and satisfaction prediction, association rules for recommendations, and anomaly detection for fraud.
 One dataset. No dataset juggling. One coherent business story.
+
 ## System Architecture
 
-![System Architecture](images/architecture.png)
+![System Architecture](images/system_architectures.png)
+
+## Dataset Relationship Diagram
+
+![Dataset Relationship Diagram](images/dataset_relationship_diagram.png)
 
 *Figure 1. End-to-end architecture of the NovaMart AI Retail Intelligence Platform, showing data ingestion, preprocessing, machine learning modules, explainable AI, and dashboard deployment.*
 
