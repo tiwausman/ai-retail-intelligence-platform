@@ -38,31 +38,31 @@ The platform identified strong seasonal purchasing patterns across Brazil.
 ![Order Volume](order_volume_trend.png)
 ### Monthly Revenue Trend
 
-![Revenue](images/monthly_revenue.png)
+![Revenue](monthly_revenue.png)
 ### Top Product Categories
 
-![Categories](images/product_category_revenue.png)
+![Categories](product_category_revenue.png)
 ### Delivery Performance
 
-![Delivery](images/delivery_performance.png)
+![Delivery](delivery_performance.png)
 ### Customer Satisfaction
 
-![Reviews](images/customer_reviews.png)
+![Reviews](customer_reviews.png)
 
 ### Payment Preferences
 
-![Payments](images/payment_methods.png)
+![Payments](payment_methods.png)
 
 ### Correlation Analysis
 
-![Correlation](images/correlation_heatmap.png)
+![Correlation](correlation_heatmap.png)
 ### Customer Distribution
 
-![Customers](images/customer_distribution.png)
+![Customers](customer_distribution.png)
 
 ### Seller Distribution
 
-![Sellers](images/seller_distribution.png)
+![Sellers](seller_distribution.png)
 
 ## Key Business Insights
 
