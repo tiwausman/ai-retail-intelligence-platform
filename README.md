@@ -29,6 +29,62 @@ One dataset. No dataset juggling. One coherent business story.
 
 *Figure 1. End-to-end architecture of the NovaMart AI Retail Intelligence Platform, showing data ingestion, preprocessing, machine learning modules, explainable AI, and dashboard deployment.*
 
+## Exploratory Data Analysis
+
+### Order Volume Trend
+
+The platform identified strong seasonal purchasing patterns across Brazil.
+
+![Order Volume](order_volume_trend.png)
+### Monthly Revenue Trend
+
+![Revenue](images/monthly_revenue.png)
+### Top Product Categories
+
+![Categories](images/product_category_revenue.png)
+### Delivery Performance
+
+![Delivery](images/delivery_performance.png)
+### Customer Satisfaction
+
+![Reviews](images/customer_reviews.png)
+
+### Payment Preferences
+
+![Payments](images/payment_methods.png)
+
+### Correlation Analysis
+
+![Correlation](images/correlation_heatmap.png)
+### Customer Distribution
+
+![Customers](images/customer_distribution.png)
+
+### Seller Distribution
+
+![Sellers](images/seller_distribution.png)
+
+## Key Business Insights
+
+- 92% of orders were delivered before the estimated delivery date.
+- Credit cards generated over R$15.7 million in revenue.
+- Delivery delays negatively impacted customer satisfaction (r = -0.229).
+- Sports & Leisure and Health & Beauty were among the highest-performing product categories.
+- Customers were concentrated in São Paulo and other southeastern states.
+- Payment installments were widely used for higher-value purchases.
+
+## AI Models
+
+The platform includes:
+
+- Delivery Delay Prediction
+- Customer Satisfaction Prediction
+- Revenue Prediction
+- Recommendation System
+- Anomaly Detection
+- Explainable AI (SHAP)
+
+
 ## Technologies
 
 - Python
